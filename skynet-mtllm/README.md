@@ -1,6 +1,6 @@
 # Skynet MTLLM Plugin
 
-**Skynet MTLLM** is an extension plugin for [Jaclang MTLLM](https://github.com/jaseci-labs/jac-mtllm) that adds:
+**Skynet MTLLM** is an extension plugin for [Jaclang MTLLM](https://github.com/jaseci-labs/jaseci) that adds:
 
 - Dynamic model switching between API-based LLMs and local SLMs (Small Language Models)
 - GPU support for NVIDIA (CUDA) and AMD (ROCm)
@@ -101,5 +101,6 @@ $env:SKYNET_TRAIN_LOCAL="true"
 
 # Run Jac program
 jac run main.jac
+
 
 
