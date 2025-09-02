@@ -2,7 +2,7 @@
 name = "skynet-mtllm"
 version = "0.1.0"
 description = "Skynet MTLLM plugin with dynamic model shifting, SLM support, and device selection"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["SkyNet01 <name.email@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
@@ -11,7 +11,8 @@ jaclang = "*"
 torch = "^2.2.0"
 transformers = "^4.36.0"
 sentence-transformers = "^2.2.2"
-
+datasets = "*"
+peft = "*"
 
 [tool.poetry.plugins."jac"]
 skynet-mtllm = "skynet_mtllm.plugin:SkynetMtllmMachine"
