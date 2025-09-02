@@ -78,8 +78,8 @@ responses. |
 ### Windows PowerShell
 
 ```powershell
-# Set local model to GPT-Neo
-$env:SKYNET_SLM_BASE="EleutherAI/gpt-neo-125M"
+# Set local model to Tiny-LLM using Hugging Face model ID
+$env:SKYNET_SLM_BASE="arnir0/Tiny-LLM"
 
 # Set local model that has trained and downloaded
 $env:SKYNET_SLM_BASE="C:\Users\User\Models\my_trained_model"
@@ -100,5 +100,6 @@ $env:SKYNET_USE_API="true"
 $env:SKYNET_TRAIN_LOCAL="true"
 
 # Run Jac program
-jac run calc_ai.jac
+jac run main.jac
+
 
