@@ -6,8 +6,8 @@ Our mission: pushing the limits of **AI at the Edge, robotics, embedded systems,
 ---
 
 ## 🎮 RPG_game  
-- **Jac RPG Game** built with immersive gameplay and AI-driven mechanics.  
-- A playground for experimenting with intelligent NPCs and adaptive storylines.  
+- **Jac RPG Game** built using Jac and jac-byllm mechanics.  
+- The map and enimies is handled by the Language Model.  
 
 ---
 
