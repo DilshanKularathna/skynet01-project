@@ -61,14 +61,15 @@ Skynet MTLLM can be configured using environment variables to control the behavi
 
 The local SLM and plugin behavior are controlled via the following environment variables:
 
-| Variable                | Default            | Description                                                                 |
-|-------------------------|------------------|-----------------------------------------------------------------------------|
-| `SKYNET_SLM_BASE`       | `gpt2`           | Hugging Face model ID for the local SLM or file path for trained downloaded ones. The model is trained incrementally using API responses. |
-| `SKYNET_SIM_THRESHOLD`  | `0.72`           | Similarity threshold for switching from API to local SLM. Once local SLM similarity exceeds this value, the plugin starts using it automatically. |
-| `SKYNET_CACHE_DIR`      | `./skynet_cache` | Directory to store cached prompt-response pairs and incremental local SLM training data. |
-| `SKYNET_DEVICE`         | Auto (`cuda`/`cpu`) | Device to use for local SLM inference and training (`cpu`, `cuda`, `mps`, `rocm`). |
-| `SKYNET_USE_API`        | `true`           | Enable (`true`) or disable (`false`) API calls. Useful for offline mode or testing local models. |
-| `SKYNET_TRAIN_LOCAL`    | `true`           | Enable (`true`) or disable (`false`) incremental training of the local SLM with API responses. |
+| Variable                | Default                               | Description                                                                                                                         |
+|-------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| `SKYNET_SLM_BASE`       | `TinyLlama/TinyLlama-1.1B-Chat-v1.0`  | Hugging Face model ID for the local SLM or file path for trained downloaded ones. The model is trained incrementally using API
+responses. |
+| `SKYNET_SIM_THRESHOLD`  | `0.72`                                | Similarity threshold for switching from API to local SLM. Once local SLM similarity exceeds this value, the plugin starts using it automatically. |
+| `SKYNET_CACHE_DIR`      | `./skynet_cache`                      | Directory to store cached prompt-response pairs and incremental local SLM training data.                                            |
+| `SKYNET_DEVICE`         | Auto (`cuda`/`cpu`)                   | Device to use for local SLM inference and training (`cpu`, `cuda`, `mps`, `rocm`).                                                  |
+| `SKYNET_USE_API`        | `true`                                | Enable (`true`) or disable (`false`) API calls. Useful for offline mode or testing local models.                                    |
+| `SKYNET_TRAIN_LOCAL`    | `true`                                | Enable (`true`) or disable (`false`) incremental training of the local SLM with API responses.                                      |
 
 ---
 
@@ -100,3 +101,4 @@ $env:SKYNET_TRAIN_LOCAL="true"
 
 # Run Jac program
 jac run calc_ai.jac
+
