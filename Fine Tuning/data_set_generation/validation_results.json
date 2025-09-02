@@ -1,0 +1,367 @@
+[
+  {
+    "line_number": 1,
+    "generation_id": 1,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 2,
+    "generation_id": 2,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 3,
+    "generation_id": 3,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 4,
+    "generation_id": 4,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 5,
+    "generation_id": 5,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 6,
+    "generation_id": 6,
+    "is_valid": false,
+    "errors": [
+      "Enemy overlaps with wall",
+      "Unreachable enemies at: [(7, 1)]"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 7,
+    "generation_id": 7,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 8,
+    "generation_id": 8,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 9,
+    "generation_id": 9,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 10,
+    "generation_id": 10,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 11,
+    "generation_id": 11,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 12,
+    "generation_id": 12,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 13,
+    "generation_id": 13,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 14,
+    "generation_id": 14,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 15,
+    "generation_id": 15,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 16,
+    "generation_id": 16,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 17,
+    "generation_id": 17,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 18,
+    "generation_id": 18,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 19,
+    "generation_id": 19,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 20,
+    "generation_id": 20,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 21,
+    "generation_id": 21,
+    "is_valid": false,
+    "errors": [
+      "Missing wall at bottom border: (1, 14)",
+      "Missing wall at bottom border: (2, 14)",
+      "Missing wall at bottom border: (3, 14)",
+      "Missing wall at bottom border: (4, 14)",
+      "Missing wall at bottom border: (5, 14)",
+      "Missing wall at bottom border: (6, 14)",
+      "Missing wall at bottom border: (7, 14)",
+      "Missing wall at bottom border: (8, 14)",
+      "Missing wall at bottom border: (9, 14)",
+      "Missing wall at bottom border: (10, 14)",
+      "Missing wall at bottom border: (11, 14)",
+      "Missing wall at bottom border: (12, 14)",
+      "Missing wall at bottom border: (13, 14)",
+      "Missing wall at bottom border: (14, 14)",
+      "Missing wall at bottom border: (15, 14)",
+      "Missing wall at bottom border: (16, 14)",
+      "Missing wall at bottom border: (17, 14)",
+      "Missing wall at bottom border: (18, 14)"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 22,
+    "generation_id": 22,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 23,
+    "generation_id": 23,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 24,
+    "generation_id": 24,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 25,
+    "generation_id": 25,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 26,
+    "generation_id": 27,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 27,
+    "generation_id": 28,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 28,
+    "generation_id": 29,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 29,
+    "generation_id": 30,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 30,
+    "generation_id": 31,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 31,
+    "generation_id": 32,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 32,
+    "generation_id": 33,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 33,
+    "generation_id": 34,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 34,
+    "generation_id": 35,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 35,
+    "generation_id": 36,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 36,
+    "generation_id": 37,
+    "is_valid": false,
+    "errors": [
+      "Enemy overlaps with wall",
+      "Unreachable enemies at: [(10, 5)]"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 37,
+    "generation_id": 38,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 38,
+    "generation_id": 39,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 39,
+    "generation_id": 40,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 40,
+    "generation_id": 41,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 41,
+    "generation_id": 43,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 42,
+    "generation_id": 44,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 43,
+    "generation_id": 45,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 44,
+    "generation_id": 46,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 45,
+    "generation_id": 47,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 46,
+    "generation_id": 48,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 47,
+    "generation_id": 49,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 48,
+    "generation_id": 50,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  }
+]

@@ -1,0 +1,3534 @@
+[
+  {
+    "line_number": 1,
+    "generation_id": 1,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 2,
+    "generation_id": 2,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 3,
+    "generation_id": 3,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 4,
+    "generation_id": 4,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 5,
+    "generation_id": 5,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 6,
+    "generation_id": 6,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 7,
+    "generation_id": 7,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 8,
+    "generation_id": 8,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 9,
+    "generation_id": 10,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 10,
+    "generation_id": 11,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 11,
+    "generation_id": 12,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 12,
+    "generation_id": 13,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 13,
+    "generation_id": 14,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 14,
+    "generation_id": 15,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 15,
+    "generation_id": 16,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 16,
+    "generation_id": 17,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 17,
+    "generation_id": 18,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 18,
+    "generation_id": 19,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 19,
+    "generation_id": 20,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 20,
+    "generation_id": 21,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 21,
+    "generation_id": 22,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 22,
+    "generation_id": 23,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 23,
+    "generation_id": 24,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 24,
+    "generation_id": 25,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 25,
+    "generation_id": 26,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 26,
+    "generation_id": 27,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 27,
+    "generation_id": 28,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 28,
+    "generation_id": 29,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 29,
+    "generation_id": 30,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 30,
+    "generation_id": 31,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 31,
+    "generation_id": 32,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 32,
+    "generation_id": 33,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 33,
+    "generation_id": 34,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 34,
+    "generation_id": 35,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 35,
+    "generation_id": 36,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 36,
+    "generation_id": 37,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 37,
+    "generation_id": 38,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 38,
+    "generation_id": 39,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 39,
+    "generation_id": 40,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 40,
+    "generation_id": 41,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 41,
+    "generation_id": 42,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 42,
+    "generation_id": 43,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 43,
+    "generation_id": 44,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 44,
+    "generation_id": 45,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 45,
+    "generation_id": 46,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 46,
+    "generation_id": 47,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 47,
+    "generation_id": 48,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 48,
+    "generation_id": 49,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 49,
+    "generation_id": 50,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 50,
+    "generation_id": 51,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 51,
+    "generation_id": 52,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 52,
+    "generation_id": 53,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 53,
+    "generation_id": 54,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 54,
+    "generation_id": 55,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 55,
+    "generation_id": 56,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 56,
+    "generation_id": 57,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 57,
+    "generation_id": 58,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 58,
+    "generation_id": 59,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 59,
+    "generation_id": 60,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 60,
+    "generation_id": 61,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 61,
+    "generation_id": 62,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 62,
+    "generation_id": 63,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 63,
+    "generation_id": 64,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 64,
+    "generation_id": 65,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 65,
+    "generation_id": 66,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 66,
+    "generation_id": 67,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 67,
+    "generation_id": 68,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 68,
+    "generation_id": 69,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 69,
+    "generation_id": 70,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 70,
+    "generation_id": 71,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 71,
+    "generation_id": 72,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 72,
+    "generation_id": 73,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 73,
+    "generation_id": 74,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 74,
+    "generation_id": 75,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 75,
+    "generation_id": 76,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 76,
+    "generation_id": 77,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 77,
+    "generation_id": 78,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 78,
+    "generation_id": 79,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 79,
+    "generation_id": 80,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 80,
+    "generation_id": 81,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 81,
+    "generation_id": 82,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 82,
+    "generation_id": 83,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 83,
+    "generation_id": 84,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 84,
+    "generation_id": 86,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 85,
+    "generation_id": 87,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 86,
+    "generation_id": 88,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 87,
+    "generation_id": 89,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 88,
+    "generation_id": 90,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 89,
+    "generation_id": 91,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 90,
+    "generation_id": 92,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 91,
+    "generation_id": 93,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 92,
+    "generation_id": 94,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with enemy"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 93,
+    "generation_id": 95,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 94,
+    "generation_id": 96,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 95,
+    "generation_id": 97,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 96,
+    "generation_id": 98,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 97,
+    "generation_id": 99,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 98,
+    "generation_id": 100,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 99,
+    "generation_id": 101,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 100,
+    "generation_id": 103,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 101,
+    "generation_id": 104,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 102,
+    "generation_id": 105,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 103,
+    "generation_id": 106,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 104,
+    "generation_id": 107,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 105,
+    "generation_id": 108,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 106,
+    "generation_id": 109,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 107,
+    "generation_id": 110,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 108,
+    "generation_id": 111,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 109,
+    "generation_id": 112,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 110,
+    "generation_id": 113,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 111,
+    "generation_id": 114,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 112,
+    "generation_id": 115,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 113,
+    "generation_id": 116,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 114,
+    "generation_id": 117,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 115,
+    "generation_id": 118,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 116,
+    "generation_id": 119,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 117,
+    "generation_id": 120,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 118,
+    "generation_id": 121,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 119,
+    "generation_id": 122,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 120,
+    "generation_id": 123,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 121,
+    "generation_id": 124,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 122,
+    "generation_id": 125,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 123,
+    "generation_id": 126,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 124,
+    "generation_id": 127,
+    "is_valid": false,
+    "errors": [
+      "Unreachable enemies at: [(5, 3), (15, 3), (3, 11), (16, 12), (10, 12)]"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 125,
+    "generation_id": 128,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 126,
+    "generation_id": 129,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 127,
+    "generation_id": 130,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 128,
+    "generation_id": 131,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 129,
+    "generation_id": 132,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 130,
+    "generation_id": 135,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 131,
+    "generation_id": 136,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 132,
+    "generation_id": 137,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 133,
+    "generation_id": 138,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 134,
+    "generation_id": 139,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 135,
+    "generation_id": 140,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 136,
+    "generation_id": 141,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 137,
+    "generation_id": 142,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 138,
+    "generation_id": 143,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 139,
+    "generation_id": 144,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 140,
+    "generation_id": 145,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 141,
+    "generation_id": 146,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 142,
+    "generation_id": 147,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 143,
+    "generation_id": 148,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 144,
+    "generation_id": 149,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 145,
+    "generation_id": 150,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 146,
+    "generation_id": 151,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 147,
+    "generation_id": 152,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 148,
+    "generation_id": 153,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 149,
+    "generation_id": 154,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 150,
+    "generation_id": 155,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 151,
+    "generation_id": 156,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 152,
+    "generation_id": 157,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 153,
+    "generation_id": 158,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 154,
+    "generation_id": 160,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 155,
+    "generation_id": 161,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 156,
+    "generation_id": 162,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 157,
+    "generation_id": 163,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 158,
+    "generation_id": 164,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 159,
+    "generation_id": 165,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 160,
+    "generation_id": 166,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 161,
+    "generation_id": 167,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 162,
+    "generation_id": 168,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 163,
+    "generation_id": 169,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 164,
+    "generation_id": 170,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 165,
+    "generation_id": 171,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 166,
+    "generation_id": 172,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 167,
+    "generation_id": 173,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 168,
+    "generation_id": 174,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 169,
+    "generation_id": 175,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 170,
+    "generation_id": 176,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 171,
+    "generation_id": 177,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 172,
+    "generation_id": 178,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 173,
+    "generation_id": 179,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 174,
+    "generation_id": 180,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 175,
+    "generation_id": 181,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 176,
+    "generation_id": 182,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 177,
+    "generation_id": 183,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 178,
+    "generation_id": 185,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 179,
+    "generation_id": 186,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 180,
+    "generation_id": 187,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 181,
+    "generation_id": 188,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 182,
+    "generation_id": 189,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 183,
+    "generation_id": 190,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 184,
+    "generation_id": 191,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 185,
+    "generation_id": 192,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 186,
+    "generation_id": 193,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 187,
+    "generation_id": 194,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 188,
+    "generation_id": 195,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 189,
+    "generation_id": 196,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 190,
+    "generation_id": 197,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 191,
+    "generation_id": 198,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 192,
+    "generation_id": 199,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 193,
+    "generation_id": 200,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 194,
+    "generation_id": 201,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 195,
+    "generation_id": 202,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 196,
+    "generation_id": 204,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 197,
+    "generation_id": 205,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 198,
+    "generation_id": 206,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 199,
+    "generation_id": 207,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 200,
+    "generation_id": 208,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 201,
+    "generation_id": 209,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 202,
+    "generation_id": 211,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 203,
+    "generation_id": 212,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 204,
+    "generation_id": 213,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 205,
+    "generation_id": 214,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 206,
+    "generation_id": 215,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 207,
+    "generation_id": 216,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 208,
+    "generation_id": 217,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 209,
+    "generation_id": 218,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 210,
+    "generation_id": 219,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 211,
+    "generation_id": 220,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 212,
+    "generation_id": 221,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 213,
+    "generation_id": 222,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 214,
+    "generation_id": 223,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 215,
+    "generation_id": 224,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 216,
+    "generation_id": 225,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 217,
+    "generation_id": 226,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 218,
+    "generation_id": 228,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 219,
+    "generation_id": 229,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 220,
+    "generation_id": 230,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 221,
+    "generation_id": 231,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 222,
+    "generation_id": 232,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 223,
+    "generation_id": 233,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 224,
+    "generation_id": 234,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 225,
+    "generation_id": 235,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 226,
+    "generation_id": 236,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 227,
+    "generation_id": 237,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 228,
+    "generation_id": 238,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 229,
+    "generation_id": 239,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 230,
+    "generation_id": 240,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 231,
+    "generation_id": 241,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 232,
+    "generation_id": 242,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 233,
+    "generation_id": 243,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 234,
+    "generation_id": 244,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 235,
+    "generation_id": 245,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 236,
+    "generation_id": 246,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 237,
+    "generation_id": 247,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 238,
+    "generation_id": 248,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 239,
+    "generation_id": 250,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 240,
+    "generation_id": 251,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 241,
+    "generation_id": 252,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 242,
+    "generation_id": 253,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 243,
+    "generation_id": 254,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 244,
+    "generation_id": 255,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 245,
+    "generation_id": 256,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 246,
+    "generation_id": 257,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 247,
+    "generation_id": 258,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 248,
+    "generation_id": 259,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 249,
+    "generation_id": 260,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 250,
+    "generation_id": 261,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 251,
+    "generation_id": 262,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 252,
+    "generation_id": 263,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 253,
+    "generation_id": 264,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 254,
+    "generation_id": 265,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 255,
+    "generation_id": 266,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 256,
+    "generation_id": 267,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 257,
+    "generation_id": 268,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 258,
+    "generation_id": 269,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 259,
+    "generation_id": 270,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 260,
+    "generation_id": 271,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 261,
+    "generation_id": 272,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 262,
+    "generation_id": 273,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 263,
+    "generation_id": 274,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 264,
+    "generation_id": 275,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 265,
+    "generation_id": 276,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 266,
+    "generation_id": 277,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 267,
+    "generation_id": 278,
+    "is_valid": false,
+    "errors": [
+      "Unreachable enemies at: [(3, 3), (16, 3), (3, 11), (16, 11), (10, 2)]"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 268,
+    "generation_id": 279,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 269,
+    "generation_id": 280,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 270,
+    "generation_id": 281,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 271,
+    "generation_id": 282,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 272,
+    "generation_id": 283,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 273,
+    "generation_id": 284,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 274,
+    "generation_id": 285,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 275,
+    "generation_id": 286,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 276,
+    "generation_id": 287,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 277,
+    "generation_id": 288,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 278,
+    "generation_id": 289,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 279,
+    "generation_id": 290,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 280,
+    "generation_id": 291,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 281,
+    "generation_id": 292,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 282,
+    "generation_id": 293,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 283,
+    "generation_id": 294,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 284,
+    "generation_id": 295,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 285,
+    "generation_id": 296,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 286,
+    "generation_id": 297,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 287,
+    "generation_id": 298,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 288,
+    "generation_id": 299,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 289,
+    "generation_id": 300,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 290,
+    "generation_id": 301,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 291,
+    "generation_id": 302,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 292,
+    "generation_id": 303,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 293,
+    "generation_id": 304,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 294,
+    "generation_id": 305,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 295,
+    "generation_id": 306,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 296,
+    "generation_id": 307,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 297,
+    "generation_id": 308,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 298,
+    "generation_id": 309,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 299,
+    "generation_id": 310,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 300,
+    "generation_id": 311,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 301,
+    "generation_id": 312,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 302,
+    "generation_id": 313,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 303,
+    "generation_id": 314,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 304,
+    "generation_id": 315,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 305,
+    "generation_id": 316,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 306,
+    "generation_id": 317,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 307,
+    "generation_id": 318,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 308,
+    "generation_id": 319,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 309,
+    "generation_id": 320,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 310,
+    "generation_id": 321,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 311,
+    "generation_id": 322,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 312,
+    "generation_id": 323,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 313,
+    "generation_id": 324,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 314,
+    "generation_id": 325,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 315,
+    "generation_id": 326,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 316,
+    "generation_id": 327,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 317,
+    "generation_id": 328,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 318,
+    "generation_id": 329,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 319,
+    "generation_id": 330,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 320,
+    "generation_id": 331,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 321,
+    "generation_id": 332,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 322,
+    "generation_id": 333,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 323,
+    "generation_id": 334,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 324,
+    "generation_id": 335,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 325,
+    "generation_id": 336,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 326,
+    "generation_id": 337,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 327,
+    "generation_id": 338,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 328,
+    "generation_id": 339,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 329,
+    "generation_id": 340,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 330,
+    "generation_id": 341,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 331,
+    "generation_id": 342,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 332,
+    "generation_id": 343,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 333,
+    "generation_id": 344,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 334,
+    "generation_id": 345,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 335,
+    "generation_id": 346,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 336,
+    "generation_id": 347,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 337,
+    "generation_id": 348,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 338,
+    "generation_id": 349,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 339,
+    "generation_id": 350,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 340,
+    "generation_id": 351,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 341,
+    "generation_id": 352,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 342,
+    "generation_id": 353,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 343,
+    "generation_id": 354,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 344,
+    "generation_id": 355,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 345,
+    "generation_id": 356,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 346,
+    "generation_id": 357,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 347,
+    "generation_id": 358,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 348,
+    "generation_id": 359,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 349,
+    "generation_id": 360,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 350,
+    "generation_id": 361,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 351,
+    "generation_id": 362,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 352,
+    "generation_id": 363,
+    "is_valid": false,
+    "errors": [
+      "Unreachable enemies at: [(3, 4), (16, 4), (3, 11), (16, 11), (10, 2), (2, 7), (17, 7)]"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 353,
+    "generation_id": 364,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 354,
+    "generation_id": 365,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 355,
+    "generation_id": 366,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 356,
+    "generation_id": 367,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 357,
+    "generation_id": 368,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 358,
+    "generation_id": 369,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 359,
+    "generation_id": 370,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 360,
+    "generation_id": 371,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 361,
+    "generation_id": 372,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 362,
+    "generation_id": 373,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 363,
+    "generation_id": 374,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 364,
+    "generation_id": 376,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 365,
+    "generation_id": 377,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 366,
+    "generation_id": 378,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 367,
+    "generation_id": 379,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 368,
+    "generation_id": 380,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 369,
+    "generation_id": 381,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 370,
+    "generation_id": 382,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 371,
+    "generation_id": 383,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 372,
+    "generation_id": 384,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 373,
+    "generation_id": 385,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 374,
+    "generation_id": 386,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 375,
+    "generation_id": 387,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 376,
+    "generation_id": 388,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 377,
+    "generation_id": 389,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 378,
+    "generation_id": 390,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 379,
+    "generation_id": 391,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 380,
+    "generation_id": 392,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 381,
+    "generation_id": 393,
+    "is_valid": false,
+    "errors": [
+      "Unreachable enemies at: [(3, 3), (16, 3), (16, 11), (3, 11), (8, 2), (8, 12)]"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 382,
+    "generation_id": 394,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 383,
+    "generation_id": 395,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 384,
+    "generation_id": 396,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 385,
+    "generation_id": 397,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 386,
+    "generation_id": 398,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 387,
+    "generation_id": 399,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 388,
+    "generation_id": 400,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 389,
+    "generation_id": 401,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 390,
+    "generation_id": 402,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 391,
+    "generation_id": 403,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 392,
+    "generation_id": 404,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 393,
+    "generation_id": 405,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 394,
+    "generation_id": 406,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 395,
+    "generation_id": 407,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with enemy"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 396,
+    "generation_id": 408,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 397,
+    "generation_id": 409,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 398,
+    "generation_id": 410,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 399,
+    "generation_id": 411,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 400,
+    "generation_id": 412,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 401,
+    "generation_id": 413,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 402,
+    "generation_id": 414,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 403,
+    "generation_id": 415,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 404,
+    "generation_id": 416,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 405,
+    "generation_id": 418,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 406,
+    "generation_id": 419,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 407,
+    "generation_id": 420,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 408,
+    "generation_id": 421,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 409,
+    "generation_id": 422,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 410,
+    "generation_id": 423,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 411,
+    "generation_id": 424,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 412,
+    "generation_id": 425,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 413,
+    "generation_id": 426,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 414,
+    "generation_id": 427,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 415,
+    "generation_id": 428,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 416,
+    "generation_id": 429,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 417,
+    "generation_id": 430,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 418,
+    "generation_id": 431,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 419,
+    "generation_id": 432,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 420,
+    "generation_id": 433,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 421,
+    "generation_id": 434,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 422,
+    "generation_id": 435,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 423,
+    "generation_id": 436,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 424,
+    "generation_id": 437,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 425,
+    "generation_id": 438,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 426,
+    "generation_id": 439,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 427,
+    "generation_id": 440,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 428,
+    "generation_id": 441,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 429,
+    "generation_id": 442,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 430,
+    "generation_id": 443,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 431,
+    "generation_id": 444,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 432,
+    "generation_id": 445,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 433,
+    "generation_id": 446,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 434,
+    "generation_id": 447,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 435,
+    "generation_id": 448,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 436,
+    "generation_id": 449,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 437,
+    "generation_id": 450,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 438,
+    "generation_id": 451,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 439,
+    "generation_id": 452,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 440,
+    "generation_id": 453,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 441,
+    "generation_id": 454,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 442,
+    "generation_id": 455,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 443,
+    "generation_id": 456,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 444,
+    "generation_id": 458,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 445,
+    "generation_id": 459,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 446,
+    "generation_id": 460,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 447,
+    "generation_id": 461,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 448,
+    "generation_id": 462,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 449,
+    "generation_id": 463,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 450,
+    "generation_id": 464,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 451,
+    "generation_id": 465,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 452,
+    "generation_id": 466,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 453,
+    "generation_id": 467,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 454,
+    "generation_id": 468,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 455,
+    "generation_id": 469,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 456,
+    "generation_id": 470,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 457,
+    "generation_id": 471,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 458,
+    "generation_id": 472,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 459,
+    "generation_id": 473,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 460,
+    "generation_id": 474,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 461,
+    "generation_id": 475,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 462,
+    "generation_id": 476,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 463,
+    "generation_id": 477,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 464,
+    "generation_id": 478,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 465,
+    "generation_id": 479,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 466,
+    "generation_id": 480,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 467,
+    "generation_id": 481,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 468,
+    "generation_id": 482,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 469,
+    "generation_id": 483,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 470,
+    "generation_id": 484,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 471,
+    "generation_id": 485,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 472,
+    "generation_id": 486,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 473,
+    "generation_id": 487,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 474,
+    "generation_id": 488,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 475,
+    "generation_id": 489,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 476,
+    "generation_id": 490,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 477,
+    "generation_id": 491,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 478,
+    "generation_id": 492,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 479,
+    "generation_id": 493,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 480,
+    "generation_id": 494,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 481,
+    "generation_id": 495,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 482,
+    "generation_id": 496,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 483,
+    "generation_id": 497,
+    "is_valid": false,
+    "errors": [
+      "Player overlaps with wall"
+    ],
+    "warnings": []
+  },
+  {
+    "line_number": 484,
+    "generation_id": 498,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 485,
+    "generation_id": 499,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "line_number": 486,
+    "generation_id": 500,
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  }
+]
