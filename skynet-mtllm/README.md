@@ -47,7 +47,7 @@ pip install torch transformers sentence-transformers
 
 # Skynet MTLLM — Changing the Local SLM
 
-Skynet MTLLM allows you to dynamically choose which local small LLM (SLM) to use for prompt handling and incremental training. By default, the plugin uses `gpt2`, but you can configure any Hugging Face model installed locally or available via the Transformers library.
+Skynet MTLLM allows you to dynamically choose which local small LLM (SLM) to use for prompt handling and incremental training. By default, the plugin uses `TinyLlama/TinyLlama-1.1B-Chat-v1.0`, but you can configure any Hugging Face model installed locally or available via the Transformers library.
 
 ---
 
@@ -101,6 +101,7 @@ $env:SKYNET_TRAIN_LOCAL="true"
 
 # Run Jac program
 jac run main.jac
+
 
 
 
